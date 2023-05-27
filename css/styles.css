@@ -8,3 +8,12 @@
     color: white;
     margin: 5px;
 }
+.change .btn{
+    padding: 5px 10px;
+    color: white;
+    margin: 5px;
+    line-height:0 ;
+}
+.change input{
+    padding: 5px 0px 5px 10px;
+}
